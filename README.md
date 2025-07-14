@@ -1,1 +1,1 @@
-# even-tmanagement
+# event management
